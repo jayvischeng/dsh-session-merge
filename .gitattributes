@@ -1,0 +1,4 @@
+# Normalize line endings: this is a cross-platform Node plugin.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
